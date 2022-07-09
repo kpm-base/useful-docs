@@ -1,4 +1,4 @@
-[İndex](../index.md)
+[İndex](../README.md)
 
 ## **GENEL BAKIŞ**
 
@@ -19,4 +19,4 @@ Web uygulaması için bir web UI arayüz kütüphanesi olan ReactJS kullanımı�
 ReactJS'in tercih edilmesinde bu web kütüphanesinin topluluk ve dökümantasyon desteğinin yanı sıra, 
 farklı platformlara yönelik uygulamanın genişletilmesi konusunda esneklik sağlaması gösterilebilir.
 
-[İndex](../index.md)
+[İndex](../README.md)
