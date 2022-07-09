@@ -1,4 +1,4 @@
-[İndex](../index.md)
+[İndex](../README.md)
 
 # MİKRO DENETLEYİCİ (RASPBERRY PI 3B+)
 
@@ -120,4 +120,4 @@ Konfigürasyon için ilgili adımlar şöyledir:
 
 Bu adımlardan sonra Raspberry Pi ve Raspberry Pi’ın ekranının kalibrasyonu bitmiş oluyor. Artık SSH ile (veya istediğiniz başka bir yöntem ile) kendi dosyalarınızı gönderip, Raspberry Pi üzerinde çalıştırabilirsiniz.
 
-[İndex](../index.md)
+[İndex](../README.md)
