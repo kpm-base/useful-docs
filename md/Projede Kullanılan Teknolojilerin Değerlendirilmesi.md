@@ -1,4 +1,4 @@
-[İndex](../index.md)
+[İndex](../README.md)
 
 ## Projede Kullanılan Teknolojilerin Değerlendirilmesi
 
@@ -56,4 +56,4 @@ JSX, XML’in JavaScript içerisine yerleştirilmesi için dilbilgisi olarak tar
 - Daha hızlı yükleme süresine sahip web siteleri oluşturulmasını sağlar.
 - React DOM işlemini verimli şekilde günceller ve web bazlı uygulamalarda sorun yaşanmasını engeller. Sanal DOM’lar oluşturmaya yarayan araç, bunları bir hafızada tutmayı sağlar. Herhangi bir değişiklik olması durumunda sanal olan DOM da aynı anda günceller.
 
-[İndex](../index.md)
+[İndex](../README.md)
